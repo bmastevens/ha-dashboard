@@ -6,7 +6,7 @@ Format: one checklist line per item, in priority order (top is next). Tick an it
 
 ## Now
 
-- [ ] Fill in this backlog from the Home Assistant dashboard Claude project (dashboard and automation work in progress, and what comes next) | waits on Ben
+- [ ] Fill in this backlog from the Home Assistant dashboard Claude project (dashboard and automation work in progress, and what comes next) (waits on Ben)
 
 ## Parked
 
