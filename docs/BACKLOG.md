@@ -24,6 +24,7 @@ Format: one checklist line per item, in priority order (top is next). Tick an it
 
 ## Done
 
+- [x] Freddie's weekday "20 minutes reading" now shows all day (any time) instead of only after school, so it no longer drops off his card at 6:30pm (27 Nov)
 - [x] Freddie's TaskMate card split into Homework, Daily routine and Extra chores sections, with the "if you like" label hidden (24 Nov)
 - [x] TaskMate upgraded to 7.12.1, after a backup, to get headed sections (24 Nov)
 - [x] Showbie tasks worth 2 stars each, and fixed tasks vanishing overnight (24 Nov)
